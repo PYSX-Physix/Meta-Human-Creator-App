@@ -1,5 +1,5 @@
 
-# Meta Human Creator
+# Meta Human Creator App
 
 The Meta-Human Creator is a editor for creating realistic humans and importing them into Unreal Engine 4.27.X-5.X.X
 
