@@ -12,6 +12,12 @@ The Meta-Human Creator is a editor for creating realistic humans and importing t
  - [Quixel Bridge](https://www.quixel.com)
 
 
+
+## Demo
+
+![Example 1](https://github.com/Physix-Physix/Meta-Human-Creator/blob/main/Example1.gif) ![Example 2](https://github.com/Physix-Physix/Meta-Human-Creator/blob/main/Example2.gif) ![Example 3](https://github.com/Physix-Physix/Meta-Human-Creator/blob/main/Example3.gif)
+
+
 ## Installation
 
 Install MHCA by Release
@@ -23,9 +29,3 @@ Install MHCA by Release
 ## Feedback
 
 If you have any feedback, please reach out to me at llodgical018@gmail.com
-
-
-## Demo
-
-![Example 1](https://github.com/Physix-Physix/Meta-Human-Creator/blob/main/Example1.gif) ![Example 2](https://github.com/Physix-Physix/Meta-Human-Creator/blob/main/Example2.gif) ![Example 3](https://github.com/Physix-Physix/Meta-Human-Creator/blob/main/Example3.gif)
-
