@@ -27,5 +27,5 @@ If you have any feedback, please reach out to me at llodgical018@gmail.com
 
 ## Demo
 
-![Example 1](https://github.com/Physix-Physix/Meta-Human-Creator/blob/main/Example1.gif) ![Example 2](https://github.com/Physix-Physix/Meta-Human-Creator/blob/main/Example2.gif)
+![Example 1](https://github.com/Physix-Physix/Meta-Human-Creator/blob/main/Example1.gif)
 
