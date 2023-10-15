@@ -27,4 +27,4 @@ Install MHCA by Release
     
 ## Feedback
 
-If you have any feedback, please reach out to me at llodgical018@gmail.com
+If you have any feedback, please reach out to me at llodgical018@gmail.com or by opening an issue but with the feedback tag
