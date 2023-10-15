@@ -7,9 +7,9 @@ The Meta-Human Creator is a editor for creating realistic humans and importing t
 
 ## Acknowledgements
 
- - [Epic Games](https://www.epicgames.com)
- - [Unreal Engine](https://unrealengine.com)
- - [Quixel Bridge](https://www.quixel.com)
+ - [Epic Games](https://www.epicgames.com) for creating this advanced tool
+ - [Unreal Engine](https://unrealengine.com) for allowing these realistic character into UE4-UE5
+ - [Quixel Bridge](https://www.quixel.com) for allowing people to easily port Metahumans into UE5
 
 
 ## Demo
