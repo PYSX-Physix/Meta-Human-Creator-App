@@ -24,7 +24,7 @@ Install MHCA by Release
 ```bash
   Releases >> Latest Version (Recommended)
 ```
-Also, make sure to follow the Wiki installation and sign-in page.
+Also, make sure to follow the Wiki [Installation](https://github.com/Physix-Physix/Meta-Human-Creator-App/wiki/Installation) and [Sign-in](https://github.com/Physix-Physix/Meta-Human-Creator-App/wiki/Installation) pages.
     
 ## Feedback
 
