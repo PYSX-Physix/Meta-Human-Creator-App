@@ -24,6 +24,7 @@ Install MHCA by Release
 ```bash
   Releases >> Latest Version (Recommended)
 ```
+Also, make sure to follow the Wiki installation and sign-in page.
     
 ## Feedback
 
