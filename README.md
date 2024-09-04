@@ -28,4 +28,4 @@ Also, make sure to follow the Wiki [Installation](https://github.com/Physix-Phys
     
 ## Feedback
 
-If you have any feedback, please reach out to me at llodgical018@gmail.com or by opening an issue but with the feedback tag
+If you have any feedback, please reach out to me at llodgical018@gmail.com or by opening an issue with the feedback tag attached
