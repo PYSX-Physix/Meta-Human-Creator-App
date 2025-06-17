@@ -1,3 +1,7 @@
+# Message
+Hello everyone, if you've been up with recent Unreal News, Unreal Engine 5.6 has now fully integrated the MetaHuman editor inside the application. It brings more features and customization than the website. I hope to see your creations and good luck developers!
+
+
 # Meta Human Creator App
 
 The Meta-Human Creator is a editor for creating realistic humans and importing them into Unreal Engine 4.27-5.5
